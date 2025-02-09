@@ -2,11 +2,25 @@
 
 ## Visão Geral
 
-Bom, estava lendo neuromancer e decidi modular o ciberespaço explorado na obra, em que fundio quimica, neuroanatomia, matemática e ciencia de dados.
+Bom, estava lendo neuromancer e decidi modular o ciberespaço explorado na obra, em que fundio quimica, neuroanatomia, matemática e ciência de dados.
 
-Eu teorizei este sistema para fundir bioeletrônica, nanotecnologia e algoritmos tensoriais em uma única arquitetura capaz de projetar a consciência humana num espaço virtual (“Matrix”). Minha base é o **G-NEU-XL**, um composto nanoestruturado que se integra às sinapses neurais, viabilizando a transferência de dados em escala quase quântica.
+Eu teorizei este sistema para fundir bioelétrica, nanotecnologia e algoritmos tensoriais em uma única arquitetura capaz de projetar a consciência humana num espaço virtual (“Matrix”).  Mas resumidamente falando, teorizei um kernel de projeção K(x,t;τ) que sincroniza a dimensão temporal biológica ( 𝑡 t) com a dimensão virtual ( 𝜏 τ).
 
-No caso isso é mais uma brincadeira minha para aprender múltiplos temas sobre como tecnologias funcionam em ficção dos livros e contos que gosto.
+* Ψ(τ)=∫ M ​ K(x,t;τ)T(x,t)dxdt,
+  * **T(x,t)**: Tensor que representa padrões de atividade neural.
+  * **K\mathcal{K}K**: Função que reordena o fluxo de dados e comprime a estrutura dimensional em algo passível de projeção.
+  * **Ψ(τ)\Psi(\tau)Ψ(τ)**: É o estado de consciência digitalmente reconstruído, pronto para “renderizar” na Matrix.
+
+Minha base é o **G-NEU-XL**, um composto nanoestruturado que se integra às sinapses neurais, viabilizando a transferência de dados em escala quase quântica. No caso, usando&#x20;
+
+* **Estrutura**:
+  * Esqueleto de grafeno (C24\_{24}24​H12\_{12}12​) com dopagem BN (B2\_{2}2​N2\_{2}2​) para modulação de banda e criação de poços quânticos.
+  * Grupamentos oxigenados (O6\_{6}6​) agindo como pontos de ancoragem bioquímica, permitindo interação efetiva com proteínas e tecido neural.
+* **Passos de Síntese**:
+  1. **Oxidação Controlada** do grafite via método de Hummers modificado para obter óxido de grafeno.
+  2. **Dopagem BN** em ambiente solvotérmico (\~250–300 °C) com borato de sódio e amônio nitrato, introduzindo átomos de B e N na rede planar.
+  3. **Redução Química** com agentes como hidrazina para restaurar a conjugação π\piπ, garantindo condutividade alta e preservando estruturas quânticas.
+* Este composto G-NEU-XL forma uma matriz nanoestruturada com **defeitos controlados**, equivalentes a minúsculos “nós quânticos” que facilitam a leitura e escrita de padrões elétricos do sistema nervoso.
 
 ***
 
