@@ -95,9 +95,8 @@ A dopagem BN, combinada ao remanescente de oxigênio funcional, confere compatib
 
 Em síntese, o G-NEU-XL representa um híbrido C–B–N–O configurado para maximizar a coerência quântica em defeitos pontuais, sustentando canais de condução pi-resonantes e promovendo reações de interface com biomoléculas. É o domínio perfeito onde engenharia de materiais, nanotecnologia e neurociência convergem em busca de plataformas de leitura/escrita neural de altíssima resolução.
 
+### Resumindo
+
 * **Gradiente de Gap:** O controle da inserção B/N modula o gap eletrônico e força a formação de estados localizados (poços quânticos) nas intersecções defeituosas.
 * **Dominância Conjugada:** A redução seletiva com hidrazina retém domínios sp², vitais para respostas plasmônicas e transporte de carga.
 * **Pontes de Ancoragem Bioquímica:** As frentes oxigenadas são sítios de ligação covalente ou eletrostática com agentes de interface neuronal, dispensando ligantes genéricos.
-
-**VII. RESULTANTE – G-NEU-XL**\
-Matriz nanoestruturada de **grafeno dopado** com B/N, portando defeitos quânticos funcionais e hotspots oxigenados para acoplamento bioeletrônico. Condutividade, reatividade e afinidade neural otimizadas para escalonamento em interconexão humano-máquina de alto desempenho.
